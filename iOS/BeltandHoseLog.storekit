@@ -1,0 +1,40 @@
+{
+  "identifier": "00000000-0000-0000-0000-000000000000",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {},
+  "subscriptionGroups": [
+    {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "localizations": [],
+      "name": "BeltandHoseLog Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "00000000-0000-0000-0000-000000000002",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Multi-component tracking with inspection photo notes",
+              "displayName": "BeltandHoseLog Pro Monthly",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.belthoselog.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "BeltandHoseLog Pro Monthly",
+          "subscriptionGroupID": "00000000-0000-0000-0000-000000000001",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
